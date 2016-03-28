@@ -12,8 +12,8 @@ sub new {
 
 sub attr1 {
     my $self = shift;
-    $self->{attr1} = $_[0] if @_;
-    $self->{attr1};
+    $self->[0] = $_[0] if @_;
+    $self->[0];
 }
 
 1;
