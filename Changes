@@ -1,5 +1,10 @@
 Revision history for Perl-Examples-Accessors
 
+0.02     2016-03-29 (PERLANCAR)
+
+         - Add classes: PEA:ClassAccessorArray, PEA:ClassAccessorArrayGlob.
+
+
 0.01     2016-03-28 (PERLANCAR)
 
          - First release.
