@@ -1,5 +1,11 @@
 Revision history for Perl-Examples-Accessors
 
+0.03    2016-03-29 (PERLANCAR)
+
+	- Remove Class::Build::Array::Glob (it will be re-added if I
+	  resolve the implementation issue).
+
+
 0.02     2016-03-29 (PERLANCAR)
 
          - Add classes: PEA:ClassAccessorArray, PEA:ClassAccessorArrayGlob.
