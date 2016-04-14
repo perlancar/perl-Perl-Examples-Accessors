@@ -1,5 +1,10 @@
 Revision history for Perl-Examples-Accessors
 
+0.04    2016-04-14 (PERLANCAR)
+
+	- Add class: Perl::Examples::Accessors::ClassInsideOut.
+
+
 0.03    2016-03-29 (PERLANCAR)
 
 	- Remove Class::Build::Array::Glob (it will be re-added if I
