@@ -10,14 +10,24 @@ sub new {
     $self;
 }
 
-sub attr1 {
+sub attr1_unoptimized {
     my $self = shift;
     $self->[0] = $_[0] if @_;
     $self->[0];
 }
 
+sub attr1 {
+    if (@_ > 1) {
+        $_[0][0] = $_[1];
+    } else {
+        $_[0][0];
+    }
+}
+
 1;
 # ABSTRACT:
+
+=for Pod::Coverage ^(attr1_unoptimized)$
 
 =head1 DESCRIPTION
 
