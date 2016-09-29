@@ -10,6 +10,8 @@ has 'attr1';
 1;
 # ABSTRACT:
 
+=for Pod::Coverage ^(attr)$
+
 =head1 DESCRIPTION
 
 This is an example of a class which uses L<Mojo::Base::XS>.
