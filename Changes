@@ -1,5 +1,11 @@
 Revision history for Perl-Examples-Accessors
 
+0.10    2016-11-25 (PERLANCAR)
+
+	- Add classes: Perl::Examples::Accessors::{ClassStruct,EvoClass,Moops,
+          Moos,ObjectTiny,ObjectTinyRW,ObjectTinyRWXS,ObjectTinyXS}.
+
+
 0.09    2016-09-29 (PERLANCAR)
 
 	- Add class: Perl::Examples::Accessors::MojoBaseXS.
