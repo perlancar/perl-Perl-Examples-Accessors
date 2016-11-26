@@ -1,5 +1,16 @@
 Revision history for Perl-Examples-Accessors
 
+0.11    2016-11-26 (PERLANCAR)
+
+	- No functional changes.
+
+	- Bump prereq version of Evo::Class from 0 to 0.0256 due to failure
+	  in older versions [RT#118962].
+
+	- Downgrade prereq Moops to recommends due to failure to install on
+	  perl 5.24+ [RT#118963].
+
+
 0.10    2016-11-25 (PERLANCAR)
 
 	- Add classes: Perl::Examples::Accessors::{ClassStruct,EvoClass,Moops,
