@@ -1,3 +1,5 @@
+## no critic
+
 use Moops;
 class Perl::Examples::Accessors::Moops {
     has attr1 => (is => 'rw');
