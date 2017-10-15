@@ -1,9 +1,9 @@
-package Perl::Examples::Accessors::ClassAccessorArrayGlob;
+package Perl::Examples::Accessors::ClassAccessorArraySlurpy;
 
 # DATE
 # VERSION
 
-use Class::Accessor::Array::Glob {
+use Class::Accessor::Array::Slurpy {
     constructor => 'new',
     accessors => {
         attr1 => 0,
@@ -15,8 +15,8 @@ use Class::Accessor::Array::Glob {
 
 =head1 DESCRIPTION
 
-This is an example of a class which uses L<Class::Accessor::Array::Glob>. It is
-array-based.
+This is an example of a class which uses L<Class::Accessor::Array::Slurpy>. It
+is array-based.
 
 
 =head1 ATTRIBUTES
