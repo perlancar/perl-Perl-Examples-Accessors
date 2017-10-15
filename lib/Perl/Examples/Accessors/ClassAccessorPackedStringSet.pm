@@ -5,9 +5,9 @@ package Perl::Examples::Accessors::ClassAccessorPackedStringSet;
 
 use Class::Accessor::PackedString::Set {
     constructor => 'new',
-    accessors => {
+    accessors => [
         attr1 => "f",
-    },
+    ],
 };
 
 1;
