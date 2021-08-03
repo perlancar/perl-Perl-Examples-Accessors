@@ -1,3 +1,10 @@
+0.132   2021-08-03  Released-By: PERLANCAR; Urgency: medium
+
+	- Add :ObjectPad.
+
+	- Remove :EvoClass (code advertised in Synopsis doesn't work).
+
+
 0.131   2017-10-15  Released-By: PERLANCAR
 
 	- Add Perl::Examples::Accessors::ClassAccessorPackedStringSet.

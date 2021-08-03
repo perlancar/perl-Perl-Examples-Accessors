@@ -1,3 +1,5 @@
+## no critic: Modules::RequireEndWithOne
+
 package Perl::Examples::Accessors::ObjectPad;
 
 # AUTHORITY
@@ -13,6 +15,8 @@ class Perl::Examples::Accessors::ObjectPad {
 
 1;
 # ABSTRACT:
+
+=for Pod::Coverage ^(.+)$
 
 =head1 DESCRIPTION
 
