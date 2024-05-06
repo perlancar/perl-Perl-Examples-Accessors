@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::SimpleAccessor;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Simple::Accessor qw(attr1);

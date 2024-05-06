@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::Hash;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 sub new {

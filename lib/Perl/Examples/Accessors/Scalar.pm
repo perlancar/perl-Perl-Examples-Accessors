@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::Scalar;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 sub new {

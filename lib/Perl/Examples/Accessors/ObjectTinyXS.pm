@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ObjectTinyXS;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Object::Tiny::XS qw(attr1);

@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ClassAccessorPackedStringSet;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Class::Accessor::PackedString::Set {

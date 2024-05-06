@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ClassAccessorArraySlurpy;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Class::Accessor::Array::Slurpy {

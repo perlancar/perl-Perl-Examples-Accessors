@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ClassXSAccessorArray;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Class::XSAccessor::Array {

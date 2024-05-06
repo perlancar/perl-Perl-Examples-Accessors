@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::Mouse;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Mouse;

@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::MojoBase;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Mojo::Base -base;

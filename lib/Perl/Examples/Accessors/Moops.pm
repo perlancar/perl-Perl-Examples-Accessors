@@ -1,12 +1,16 @@
 ## no critic
-
 use Moops;
 class Perl::Examples::Accessors::Moops {
     has attr1 => (is => 'rw');
 };
 
 package Perl::Examples::Accessors::Moops;
+
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;

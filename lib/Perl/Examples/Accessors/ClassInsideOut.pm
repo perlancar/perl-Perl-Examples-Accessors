@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ClassInsideOut;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Class::InsideOut qw(register public);

@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ClassAccessor;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Class::Accessor "moose-like";

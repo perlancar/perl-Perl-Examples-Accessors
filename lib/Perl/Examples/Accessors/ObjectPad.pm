@@ -1,6 +1,7 @@
 ## no critic: Modules::RequireEndWithOne
-
 package Perl::Examples::Accessors::ObjectPad;
+
+use strict;
 
 # AUTHORITY
 # DATE
@@ -10,7 +11,7 @@ package Perl::Examples::Accessors::ObjectPad;
 use Object::Pad;
 
 class Perl::Examples::Accessors::ObjectPad {
-    has $attr1 :reader :writer;
+    field $attr1 :reader :writer;
 }
 
 1;

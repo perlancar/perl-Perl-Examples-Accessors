@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 1;

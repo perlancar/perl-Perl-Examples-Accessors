@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ObjectSimple;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Object::Simple -base;

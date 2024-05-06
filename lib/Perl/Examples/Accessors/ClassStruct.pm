@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::ClassStruct;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Class::Struct;

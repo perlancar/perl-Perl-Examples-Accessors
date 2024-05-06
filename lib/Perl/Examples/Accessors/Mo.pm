@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::Mo;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Mo;

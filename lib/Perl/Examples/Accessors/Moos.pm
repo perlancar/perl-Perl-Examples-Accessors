@@ -1,6 +1,10 @@
 package Perl::Examples::Accessors::Moos;
 
+use strict;
+
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 use Moos;
